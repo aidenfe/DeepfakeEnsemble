@@ -13,3 +13,11 @@ torch==2.5.1
 torchdata==0.9.0
 torchvision==0.20.1
 tqdm==4.66.5
+fairscale==0.4.4
+transformers==4.15.0
+pycocoevalcap
+natsort
+timm
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
